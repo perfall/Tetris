@@ -5,4 +5,4 @@
 	<pre><code>java tetris.GraphicBoardTest</code></pre>
 </body>
 
-![Alt text](tetris-image?raw=true "Tetris Image")
+![ScreenShot](https://raw.github.com/{perfall}/{tetris}/{master}/{tetris-image})
