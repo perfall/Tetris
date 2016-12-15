@@ -4,3 +4,5 @@
 	<pre><code>javac -d . *.java</code></pre>
 	<pre><code>java tetris.GraphicBoardTest</code></pre>
 </body>
+
+![Alt text](tetris-image?raw=true "Tetris Image")
